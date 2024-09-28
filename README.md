@@ -1,2 +1,4 @@
-# sum-of-numbers-between-1-and-150
-sum of numbers between 1 and 150
+sum=0
+for i in range(1,151):
+    sum=sum+i
+print(sum)
